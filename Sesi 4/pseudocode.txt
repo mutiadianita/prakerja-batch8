@@ -24,3 +24,5 @@ TAMPILKAN hasil perhitungan
 ================================
 kata kerja = HURUF KAPITAL
 objek/subjek = "tanda kutip"
+
+
