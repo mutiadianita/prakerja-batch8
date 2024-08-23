@@ -1,0 +1,26 @@
+READ and SAVE "first number"
+READ and SAVE "second number"
+COMPUTE "first number" added by "second number"
+SAVE previous computation result
+SHOW the computation result
+
+
+================================
+
+INPUT and STORE "first number"
+INPUT and STORE "second number"
+CALCULATE "first number" plus "second number"
+STORE previous calculation result
+DISPLAY the calculation result
+
+================================
+
+MASUKKAN dan SIMPAN "angka pertama"
+MASUKKAN dan SIMPAN "angka kedua"
+HITUNG "angka pertama" yang ditambahkan oleh "angka kedua"
+SIMPAN hasil perhitungan sebelumnya
+TAMPILKAN hasil perhitungan
+
+================================
+kata kerja = HURUF KAPITAL
+objek/subjek = "tanda kutip"

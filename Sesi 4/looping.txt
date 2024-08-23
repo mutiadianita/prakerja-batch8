@@ -1,0 +1,17 @@
+0 < 5  -> betul -> makan 1 sendok
+1 < 5  -> betul -> makan 1 sendok
+2 < 5  -> betul -> makan 1 sendok
+3 < 5  -> betul -> makan 1 sendok
+4 < 5  -> betul -> makan 1 sendok
+5 < 5  -> salah -> berhenti
+
+================================
+
+INISIASI = KAPAN KITA MULAI
+
+
+STORE "angka" with 1            -> INISIASI
+WHILE "angka" <= 1000           -> KONDISI
+    DISPLAY "angka"             -> AKSI
+    ADD "angka" with 1          -> ITERASI
+

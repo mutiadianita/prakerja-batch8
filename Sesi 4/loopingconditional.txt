@@ -1,0 +1,35 @@
+DISPLAY 1 ODD!
+DISPLAY 2 EVEN!
+...
+DISPLAY 10 EVEN!
+
+
+MODULO = SISA dari PEMBAGIAN
+
+3 MOD 2 = 1
+8 MOD 6 = 2
+12 MOD 5 = 2
+
+SETIAP ANGKA GANJIL dibagi 2 pasti sisanya 1
+SETIAP ANGKA GENAP dibagi 2 pasti sisanya 0
+
+3 MOD 2 = 1
+4 MOD 2 = 0
+
+======================================
+
+STORE "count" as 1
+
+WHILE "count" <=10
+    DISPLAY "count"
+    COMPUTE "count" MOD 2
+    STORE "remainder" as the result of computation
+    
+    IF "count" equal to 0
+        DISPLAY "EVEN!"
+    ELSE
+        DISPLAY "ODD!"
+
+    COMPUTE "count" + 1
+    STORE "count" as the result of computation
+
